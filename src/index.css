@@ -1,0 +1,37 @@
+.container {
+  width: 50%;
+  height: auto;
+  padding: 30px;
+  border: 1px solid red;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #e2dede;
+}
+
+li {
+  padding: 10px;
+  background: #ececec;
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+li input {
+  margin-right: 10px;
+}
+
+.question {
+  margin-bottom: 10px;
+}
+
+.footer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.footer button {
+  display: block;
+  padding: 5px;
+  border-radius: 5px;
+}
